@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "طاحون الطيب",
+      "hasCanvas": false,
+      "bodyTextLen": 3313,
+      "bodyTextHash": "2d828f12c581ca361c1c80590654e948b8fe068f85bfaadd2fb11d2e02cdd993",
+      "bodyTextPrefix": "طاحون الطيب المناطق المنتجات الطاحون أسئلة تسوق الآن طاحون حجري ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "طاحون الطيب",
+      "hasCanvas": false,
+      "bodyTextLen": 3272,
+      "bodyTextHash": "e386b1ed943bf4a577436527212ba43542cabec235b1be86efef4c64f1be2c42",
+      "bodyTextPrefix": "طاحون الطيب طاحون حجري · بر بلدي وعضوي طاحون الطيب حيث تُطحن الأ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
